@@ -55,10 +55,10 @@ Your finished project must include all of the following requirements:
 - [*] A order form that has a "/pizza" route and shows the form
 - [*] A form with an id of "pizza-form"
 - [*] A name text input field with an id of "name-input"
-- [ ] Validation for name and the error message is "name must be at least 2 characters" (Use this exact error message to make sure tests pass)
+- [*] Validation for name and the error message is "name must be at least 2 characters" (Use this exact error message to make sure tests pass)
 - [*] A dropdown for pizza size with an id of "size-dropdown"
-- [ ] A checklist for toppings - at least 4 (hint: name each separately!)
-- [ ] Text input for special instructions with an id of "special-text"
+- [*] A checklist for toppings - at least 4 (hint: name each separately!)
+- [*] Text input for special instructions with an id of "special-text"
 - [ ] An Add to Order button that has an id of "order-button" and that submits form and returns a database record of name, size, toppings and special instructions
 
 Data should look something like
