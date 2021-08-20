@@ -48,7 +48,7 @@
 
 .form_page {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -59,4 +59,11 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: flex-start;
+}
+
+.the_orders {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
